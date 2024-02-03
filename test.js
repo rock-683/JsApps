@@ -9,5 +9,5 @@ function calculateCircleArea(radius) {
 }
 
 // Example usage:
-console.log("Area of a rectangle with width 5 and height 3:", calculateRectangleArea(5, 3));
+console.log("Area of a rectangle with width 5 and height 3: xxxxxx", calculateRectangleArea(5, 3));
 console.log("Area of a circle with radius 4:", calculateCircleArea(4));
